@@ -5,7 +5,7 @@ This Project is all about the Energy consumption monitoring  to the process the 
 
 ##Key Values that are important in the Database is Given Below
 
-## Cost Savings: By identifying energy inefficiencies, organizations can implement measures to reduce energy consumption, leading to significant cost savings over time. Monitoring energy usage helps to pinpoint areas where improvements can be made to minimize energy waste and lower utility bills.
+### Cost Savings: By identifying energy inefficiencies, organizations can implement measures to reduce energy consumption, leading to significant cost savings over time. Monitoring energy usage helps to pinpoint areas where improvements can be made to minimize energy waste and lower utility bills.
 
 ##Environmental Sustainability: Monitoring energy consumption aids in reducing carbon emissions and other environmental impacts associated with energy production and usage. By optimizing energy usage, organizations can decrease their carbon footprint and contribute to environmental conservation efforts.
 
